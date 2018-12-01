@@ -1,5 +1,7 @@
 # QALD
 
+[![Join the chat at https://gitter.im/QALD/Lobby](https://badges.gitter.im/QALD/Lobby.svg)](https://gitter.im/QALD/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Build using:  
 `./setup.sh`
 
